@@ -5,7 +5,7 @@
 ## ✅ 변수란? 데이터를 저장할 수 있는 메모리 공간에 붙여진 이름  
   
 int : 정수  
-double : 실수  
+float,double : 실수  
 char : 문자 하나  
 boolean : 논리값 (참/거짓)  
 String : 문자열  
